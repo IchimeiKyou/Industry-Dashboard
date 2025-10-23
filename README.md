@@ -1,4 +1,5 @@
 # 中国産業発展可視化システム
+- URL：https://ichimeikyou.github.io/Industry-Dashboard/
 - データ出典：中国国家統計局
 - 機能：平行座標系、多次元円グラフ、地図クリックイベント対応
 - 開発技術：HTML・CSS・JavaScript・Echarts・D3.js
