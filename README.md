@@ -109,3 +109,5 @@ project-root/
     ├── 建筑业.json            # 建筑业统计数据
     └── 农业.json              # 农业统计数据
 ```
+- URL: https://ichimeikyou.github.io/Industry-Dashboard/
+- 提示：为获得最佳浏览体验，建议将浏览器缩放级别设置为75%。
